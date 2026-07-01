@@ -1,4 +1,4 @@
-# 🏠 Real Estate Data Science Application
+# 🏠Property Vision : Real Estate Data Science Application
 
 A comprehensive end-to-end Data Science project that provides property price prediction, analytics, and recommendation systems for the real estate domain. The application leverages machine learning, data visualization, and recommendation engines to help users make informed real estate decisions.
 
